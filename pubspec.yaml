@@ -3,7 +3,6 @@ description: flutter backdrop screen
 version: 0.0.1
 homepage: https://github.com/yooseek/flutter_backdrop
 repository: https://github.com/yooseek/flutter_backdrop
-publisher: kyungseekyoo@gmail.com
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
