@@ -1,3 +1,3 @@
 library flutter_backdrop;
 
-export 'package:flutter_backdrop/backdrop_screen.dart';
+export 'package:flutter_backdrop_bottom_slide/backdrop_screen.dart';
